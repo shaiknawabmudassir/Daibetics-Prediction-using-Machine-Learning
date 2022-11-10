@@ -1,1 +1,1 @@
-# Daibetics-Prediction-using-Machine-Learning
+# Daibetics-Prediction-using-Logistic Regression with L1 Regularisation
